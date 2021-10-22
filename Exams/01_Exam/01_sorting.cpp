@@ -1,23 +1,8 @@
 #include <iostream>
+
 #include <vector>
-#include <algorithm>
 
 using namespace std;
-
-struct Trainee {
-    int identifier;
-    double diameter;
-    double time;
-    double efficiency;
-};
-
-bool comparator(Trainee &first, Trainee &second) {
-    if (first.efficiency == second.efficiency) {
-        return first.diameter > second.diameter;
-    }
-
-    return first.efficiency > second.efficiency;
-}
 
 void merge(vector<int> &array, int const left, int const mid, int const right) {
     int const subArrayOneLength = mid - left + 1;
@@ -91,21 +76,27 @@ int main() {
     int n;
     cin >> n;
 
-    vector<Trainee> trainees;
+    vector<int> numbers;
+    int currentInput;
     for (int i = 0; i < n; ++i) {
-        Trainee trainee;
-        cin >> trainee.diameter;
-        cin >> trainee.time;
-        trainee.identifier = i + 1;
-        trainee.efficiency = (trainee.diameter * trainee.diameter) / trainee.time;
-
-        trainees.push_back(trainee);
+        cin >> currentInput;
+        numbers.push_back(currentInput);
     }
 
-    sort(trainees.begin(), trainees.end(), comparator);
 
-    for (Trainee &trainee : trainees) {
-        cout << trainee.identifier << " ";
+    sortCollection(numbers);
+
+    if(numbers.size() == 0) {
+        return 0;
+    }
+
+    int previousNumber = numbers[0];
+    cout << previousNumber << " ";
+    for (int i = 1; i < numbers.size(); ++i) {
+        if(numbers[i] != previousNumber) {
+            cout << numbers[i] << " ";
+            previousNumber = numbers[i];
+        }
     }
 
     cout << endl;
