@@ -1,0 +1,6 @@
+04_Linked lists
+https://www.hackerrank.com/contests/practice-4-sda/challenges
+
+05_ Stacks and Queues
+https://leetcode.com/problems/valid-parentheses/
+https://www.hackerrank.com/contests/practice-5-sda/challenges
