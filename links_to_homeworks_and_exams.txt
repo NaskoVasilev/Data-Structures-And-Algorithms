@@ -9,3 +9,4 @@ Homeworks:
 Exams:
 01_Exam: https://www.hackerrank.com/contests/sda-2021-2021-test-1/challenges
 02_Exam: https://www.hackerrank.com/sda-2021-2021-test-2-test
+03_Exam: https://www.hackerrank.com/contests/sda-2021-2021-test-3-november16/challenges
