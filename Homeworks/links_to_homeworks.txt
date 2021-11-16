@@ -1,9 +1,0 @@
-Homeworks:
-01_Homework: https://www.hackerrank.com/contests/sda-hw-1/challenges
-02_Homework: https://www.hackerrank.com/contests/sda-hw-2/challenges
-03_Homework: https://www.hackerrank.com/sda-hw-3
-04_Homework: https://www.hackerrank.com/contests/sda-hw-4/challenges
-
-Exams:
-01_Exam: https://www.hackerrank.com/contests/sda-2021-2021-test-1/challenges
-02_Exam: https://www.hackerrank.com/sda-2021-2021-test-2-test
