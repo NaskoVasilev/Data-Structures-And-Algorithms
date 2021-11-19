@@ -4,3 +4,8 @@ https://www.hackerrank.com/contests/practice-4-sda/challenges
 05_ Stacks and Queues
 https://leetcode.com/problems/valid-parentheses/
 https://www.hackerrank.com/contests/practice-5-sda/challenges
+
+06_Binary search tree
+https://leetcode.com/problems/binary-tree-level-order-traversal/
+https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem
+https://www.topcoder.com/thrive/articles/Range%20Minimum%20Query%20and%20Lowest%20Common%20Ancestor
