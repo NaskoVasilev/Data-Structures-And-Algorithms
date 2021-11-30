@@ -9,3 +9,8 @@ https://www.hackerrank.com/contests/practice-5-sda/challenges
 https://leetcode.com/problems/binary-tree-level-order-traversal/
 https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem
 https://www.topcoder.com/thrive/articles/Range%20Minimum%20Query%20and%20Lowest%20Common%20Ancestor
+
+08_Heap and K-D trees
+https://leetcode.com/problems/k-closest-points-to-origin/
+https://leetcode.com/problems/merge-k-sorted-lists/
+https://leetcode.com/problems/last-stone-weight/
