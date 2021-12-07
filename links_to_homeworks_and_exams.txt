@@ -5,8 +5,13 @@ Homeworks:
 04_Homework: https://www.hackerrank.com/contests/sda-hw-4/challenges
 05_Homework: https://www.hackerrank.com/contests/sda-hw-5/challenges
 06_Homework - Binary Search tree: https://www.hackerrank.com/contests/sda-hw-6-2021/challenges
+07_Homework: https://www.hackerrank.com/contests/sda-hw-7
+08_Homework: https://www.hackerrank.com/sda-hw-8-2021
+09_Homework: https://www.hackerrank.com/sda-hw-9-2021
 
 Exams:
 01_Exam: https://www.hackerrank.com/contests/sda-2021-2021-test-1/challenges
 02_Exam: https://www.hackerrank.com/sda-2021-2021-test-2-test
 03_Exam: https://www.hackerrank.com/contests/sda-2021-2021-test-3-november16/challenges
+04_Exam: https://www.hackerrank.com/sda-2021-2022-test4-nov30
+05_Exam: https://www.hackerrank.com/sda-2021-2022-test5-8dec
