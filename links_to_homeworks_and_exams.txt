@@ -17,3 +17,4 @@ Exams:
 03_Exam: https://www.hackerrank.com/contests/sda-2021-2021-test-3-november16/challenges
 04_Exam: https://www.hackerrank.com/sda-2021-2022-test4-nov30
 05_Exam: https://www.hackerrank.com/sda-2021-2022-test5-8dec
+06_Exam: https://www.hackerrank.com/contests/sda-2021-2022-test-6-christmas/challenges
