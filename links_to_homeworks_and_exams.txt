@@ -21,3 +21,7 @@ Exams:
 05_Exam: https://www.hackerrank.com/sda-2021-2022-test5-8dec
 06_Exam: https://www.hackerrank.com/contests/sda-2021-2022-test-6-christmas/challenges
 07_Exam: https://www.hackerrank.com/contests/sda-2021-2022-test-7-final/challenges
+
+Final Exam:
+https://www.hackerrank.com/contests/exam-2022-part1-sda/challenges/unique-rows/problem
+https://www.hackerrank.com/contests/exam-2022-part2-sda/challenges 
